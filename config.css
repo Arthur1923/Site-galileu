@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+position: relative;
+background-color: darkblue;
+
+
+}
+body{
+background-image:url(https://s2.glbimg.com/ntYDteZ2Bft42wQbHnk5ai1iViI=/e.glbimg.com/og/ed/f/original/2022/07/02/pexels-alberlan-barros-7311920.jpg);
+}
+.menu ul{
+  display: flex;
+}
+
